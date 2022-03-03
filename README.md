@@ -52,7 +52,7 @@
 
 <h3 align="left">My fav Languages and Tools:</h3>
 <p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/neovim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/vim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/vim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/gopher.png" alt="golang" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/rust.svg" alt="rust-lang" width="40" height="40"/> </a>
 <a align="left"> <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -61,5 +61,6 @@
  <a align="left"> <a href="https://github.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gitgub" width="40" height="40"/> </a>
  <a align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a align="left"> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/ubuntu-logo.png" alt="ubuntu" width="40" height="40"/> </a>
+<a align="left"> <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/kali-logo.png" alt="ubuntu" width="40" height="40"/> </a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomsec&label=Profile%20views&color=0e75b6&style=flat" alt="ransomsec" /> </p>
