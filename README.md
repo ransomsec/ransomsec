@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ransomsec
-<h3 align="center">Self-Learner🌟.</h3>
+<h3 align="center">Self-Learner.🌟</h3>
 
 
 <p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
 
 
-- 🌱 I’m currently learning Cyber Security, How Pwning systems.
+- 🌱 I’m currently learning Cyber Security & pwning your systemSo.
 
 - 📫 How to reach me **ransomsec@protonmail.com**
 
-- ⚡ Fun fact :- I Really Love linux, becuase CLI is my Love
+- ⚡ Fun fact :- I like GUI's but i love CLI's.
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">So connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/ransomsec" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -35,10 +35,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransomsec&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ransomsec" /></p>
 
-<!-- <br>
+
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=ransomsec&bg_color=0d1117&text_color=ffffff" alt="ransomsec" /></a> </p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
