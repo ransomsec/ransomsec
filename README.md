@@ -11,7 +11,7 @@
  
 - ⚡ Fun fact :- **I like GUI's but i love CLI's.**
  
-- 📍️ Location :- My System.
+- 📍️ Location :- **/null/byte.**
 
 - 📫 How to reach me :- **ransomsec@protonmail.com**
  
