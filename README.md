@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning Cyber Security, And programming language.
  
 - ⚡ Do you know :- I like GUI's but i love CLI's.
+ 
+- 📍️ Location :- My System.
 
 - 📫 How to reach me **ransomsec@protonmail.com**
  
-- 📍️ Location :- My System
-
 
 <br>
 
