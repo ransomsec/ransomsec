@@ -49,4 +49,4 @@
  
 
 <h3 align="left">My fav Languages and Tools:</h3>
-<p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="angularjs" width="40" height="40"/> </a> <p align="right"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="angularjs" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="neovim" width="40" height="40"/> </a> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
