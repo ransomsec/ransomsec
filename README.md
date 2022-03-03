@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ransomsec! 🤓️
-<h3 align="center">Self-Learner. 🌟</h3>
+<h3 align="center">Self learner! And i really love this way of learning, try it. 💥️</h3>
 
 
-<p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
+<p><img align="right" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
 
 
 - 🌱 I’m currently learning Cyber Security, And programming languages.
  
-- ⚡ Do you know :- I like GUI's but i love CLI's.
+- ⚡ Fun fact :- **I like GUI's but i love CLI's.**
  
 - 📍️ Location :- My System.
 
-- 📫 How to reach me **ransomsec@protonmail.com**
+- 📫 How to reach me :- **ransomsec@protonmail.com**
  
 
 <br>
-
-<h3 align="left">So connect with me:</h3>
+ 
+ <p align="left"> <a href="https://twitter.com/ransomsec" target="blank"><img src="https://img.shields.io/twitter/follow/ransomsec?logo=twitter&style=for-the-badge" alt="ransomsec" /></a> </p>
+ 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/ransomsec" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="ransomsec" height="30" width="40" /></a>
-</p> 
+<a href="https://twitter.com/ransomsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ransomsec" height="30" width="40" /></a>
+</p>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
@@ -54,6 +54,7 @@
 <a align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/rust.svg" alt="rust-lang" width="40" height="40"/> </a>
 <a align="left"> <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> </a> 
- <a align="left"> <a href="https://www.kernel.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/> </a> 
+ <a align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/> </a> 
   <a align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a> 
- <a align="left"> <a href="https://github.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gitgub" width="40" height="40"/> </a> 
+ <a align="left"> <a href="https://github.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gitgub" width="40" height="40"/> </a>
+ <a align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
