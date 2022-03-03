@@ -59,8 +59,8 @@
  <a align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/> </a> 
   <a align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a> 
  <a align="left"> <a href="https://github.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gitgub" width="40" height="40"/> </a>
- <a align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+ <a align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/shell.png" alt="bash" width="40" height="40"/> </a>
   <a align="left"> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/ubuntu-logo.png" alt="ubuntu" width="40" height="40"/> </a>
-<a align="left"> <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/kali-logo.png" alt="ubuntu" width="40" height="40"/> </a>
+<a align="left"> <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/kali-logo.png" alt="kali" width="40" height="40"/> </a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomsec&label=Profile%20views&color=0e75b6&style=flat" alt="ransomsec" /> </p>
