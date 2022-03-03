@@ -5,11 +5,11 @@
 <p><img align="right" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Cyber Security.
+- 🌱 I’m currently learning Cyber Security, How Pwning systems.
 
 - 📫 How to reach me **ransomsec@protonmail.com**
 
-- ⚡ Fun fact :- I Really Love linux, becuase CLI is my LIfe
+- ⚡ Fun fact :- I Really Love linux, becuase CLI is my Love
 
 <br>
 
@@ -68,18 +68,18 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ransomsec&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="ransomsec" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ransomsec&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="ransomsec" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransomsec&theme=dark&background=0d1117&date_format=M%20j[%2C%20Y]%22%20alt=%22adam-pw" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
