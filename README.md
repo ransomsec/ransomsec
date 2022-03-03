@@ -2,7 +2,7 @@
 <h3 align="center">Self-Learner🌟.</h3>
 
 
-<p><img align="medium" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
+<p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
 
 
 - 🌱 I’m currently learning Cyber Security, How Pwning systems.
