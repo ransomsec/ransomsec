@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ransomsec
+<h1 align="center">Hi 👋, I'm Ransomsec! 🤓️
 <h3 align="center">Self-Learner.🌟</h3>
 
 
 <p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
 
 
-- 🌱 I’m currently learning Cyber Security & pwning your systemSo.
+- 🌱 I’m currently learning Cyber Security, And programming language.
+ 
+- ⚡ Do you know :- I like GUI's but i love CLI's.
 
 - 📫 How to reach me **ransomsec@protonmail.com**
 
-- ⚡ Fun fact :- I like GUI's but i love CLI's.
 
 <br>
 
