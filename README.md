@@ -4,7 +4,7 @@
 
 
 
-<p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/external-data/geek-animation.gif" alt="ransomsec" /></p>
+<p><img align="left" src="https://github.com/ransomsec/ransomsec/blob/main/external-data/geek-animation.gif" alt="ransomsec" /></p>
 
 
 - 🌱 I’m currently learning Cyber Security, And programming languages.
