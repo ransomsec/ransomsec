@@ -49,4 +49,4 @@
  
 
 <h3 align="left">My fav Languages and Tools:</h3>
-<p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="neovim" width="30" height="30"/> </a> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
