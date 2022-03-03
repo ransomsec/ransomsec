@@ -23,7 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ransomsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ransomsec" height="30" width="40" /></a>
-</p>
+</a>
+<a align="left">
+<a href="https:t.me/ransomsec" target="blank"><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/external-data/telegram.png" alt="ransomsec" height="30" width="40" /></a>
+</a>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
