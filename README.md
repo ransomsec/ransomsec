@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ransomsec! 🤓️
+<h1 align="left"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hello There, I'm Ransomsec! 🤓️</h1>
+
 <h3 align="center">Self learner! And i really love this way of learning, try it. 💥️</h3>
  
 
