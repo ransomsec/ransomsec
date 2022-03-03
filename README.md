@@ -21,7 +21,7 @@
  <a href="https://twitter.com/ransomsec" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="ransomsec" height="30" width="40" /></a>
-</p>
+</p> 
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
@@ -50,3 +50,4 @@
 
 <h3 align="left">My fav Languages and Tools:</h3>
 <p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/vim-github.png" alt="angularjs" width="40" height="40"/> </a> 
