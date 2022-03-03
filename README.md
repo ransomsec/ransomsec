@@ -5,7 +5,7 @@
 <p><img align="center" src="https://github.com/ransomsec/ransomsec/blob/main/github-animation.gif" alt="ransomsec" /></p>
 
 
-- 🌱 I’m currently learning Cyber Security, And programming language.
+- 🌱 I’m currently learning Cyber Security, And programming languages.
  
 - ⚡ Do you know :- I like GUI's but i love CLI's.
  
@@ -50,4 +50,10 @@
 
 <h3 align="left">My fav Languages and Tools:</h3>
 <p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/neovim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/vim-github.png" alt="angularjs" width="40" height="40"/> </a> 
+<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/vim-github.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/go.svg" alt="golang" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
+<a align="left"> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/rust.svg" alt="rust-lang" width="40" height="40"/> </a>
+<a align="left"> <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> </a> 
+ <a align="left"> <a href="https://www.kernel.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" width="40" height="40"/> </a> 
+  <a align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="git" width="40" height="40"/> </a> 
+ <a align="left"> <a href="https://github.com" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gitgub" width="40" height="40"/> </a> 
