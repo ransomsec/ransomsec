@@ -1,22 +1,15 @@
-<h1 align="center"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hi, I'm <a href="https://ransomsec.github.io">Ransomsec!🤓️</a></h1>
+<h1 align="center"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hi, I'm <a href="https://ransomsec.github.io">Ransomsec!</a></h1>
 
 <h3 align="center">Self learner! And i really love this way of learning, try it. 💥️</h3>
  
 
 
 
-<p><img align="left" src="https://github.com/ransomsec/ransomsec/blob/main/external-data/geek-animation.gif" alt="ransomsec" /></p>
-
-
-- 🤓️ Whoami :- **Ransomsec (...)**, a Cyber student.
-
-- 🌱 I’m currently learning Cyber Security stuff, And programming languages.
- 
-- ⚡ Fun fact :- **I like GUI's but i love CLI's.**
+- 🤓️ Whoami :- **A Student.**
  
 - 📍️ Location :- **/null/byte.**
 
-- 📫 How to reach me :- **ransomsec@protonmail.com**
+- 📫 Reach me :- **ransomsec@protonmail.com**
  
 
 <br>
@@ -41,8 +34,8 @@
     alt="ransomsec" /></p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransomsec&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ransomsec" /></p>
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransomsec&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ransomsec" /></p> -->
 
 <!--
 <h3>Trophies :-</h3>
@@ -54,9 +47,9 @@
 
  
 
-<h3 align="left">My fav Languages and Tools:</h3>
+<h3 align="left">My fav Languages and Tools (aka Daily Drivers):</h3>
 <p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/neovim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a align="left"> <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/vim.png" alt="vim" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/gopher.png" alt="golang" width="40" height="40"/> </a>
+<a align="left"> <a href="https://github.com/AstroNvim/AstroNvim" target="_blank"> <img src="https://camo.githubusercontent.com/92892e2441ba11c6584a145459c4fd61d26dc9080e802105c65819b7db05e22c/68747470733a2f2f617374726f6e76696d2e6769746875622e696f2f696d672f6c6f676f2f617374726f6e76696d2e737667" alt="vim" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/gopher.png" alt="golang" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a>
 <a align="left"> <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/rust-lang.png" alt="rust-lang" width="40" height="40"/> </a>
 <a align="left"> <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nginx.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -66,5 +59,7 @@
  <a align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/shell.png" alt="bash" width="40" height="40"/> </a>
   <a align="left"> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/ubuntu-logo.png" alt="ubuntu" width="40" height="40"/> </a>
 <a align="left"> <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/kali-logo.png" alt="kali" width="40" height="40"/> </a>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomsec&label=Profile%20views&color=0e75b6&style=flat" alt="ransomsec" /> </p>
+<a align="left"> <a href="https://github.com/kakengloh/tsk" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40446720/185574124-28e9e2b4-bdfc-4aa8-aaed-c82d91576a97.png" alt="kali" width="40" height="40"/> </a>
+ 
+ <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomsec&label=Profile%20views&color=0e75b6&style=flat" alt="ransomsec" /> </p> -->
