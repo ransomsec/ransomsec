@@ -1,16 +1,26 @@
-<h1 align="center"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hi, I'm <a href="https://ransomsec.github.io">Ransomsec!</a></h1>
+<h1 align="center"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hi</h1>
 
-<h3 align="center">Self learner! And i really love this way of learning, try it. 💥️</h3>
+ 
+>##  whoami 🦀
+
+```rust
+struct Whoami(&'static str,
+              &'static str,
+              &'static str, 
+              &'static str, 
+              &'static str);
+
+fn main() {
+    let _ = Whoami(
+                   "ransomsec", // whoami
+                   "penetration tester, hunter, binary exploitation", // wht i do and i love
+                   "so-called `dark-web` surf, read blogs", // in free time
+                   "encryptors, rust, linux, golang, python, l33t, malwares, code review", // :just love:
+                   "ransomsec@protonmail.com"); // ping me ;)
+```
  
 
-
-
-- 🤓️ Whoami :- **A Student.**
- 
-- 📍️ Location :- **/null/byte.**
-
-- 📫 Reach me :- **ransomsec@protonmail.com**
- 
+<h3 align="center">“I'm a self-learner and I'm loving it!”  💥️</h3>
 
 <br>
  
@@ -20,32 +30,6 @@
 <p align="left">
 <a href="https://twitter.com/ransomsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ransomsec" height="30" width="40" /></a>
 </a>
-
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ransomsec&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ransomsec" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ransomsec&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ransomsec" /></p>
-
-<br>
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ransomsec&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ransomsec" /></p> -->
-
-<!--
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=ransomsec&bg_color=0d1117&text_color=ffffff" alt="ransomsec" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
- 
 
 <h3 align="left">My fav Languages and Tools (aka Daily Drivers):</h3>
 <p align="left"> <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/neovim.png" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -60,6 +44,3 @@
   <a align="left"> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/ubuntu-logo.png" alt="ubuntu" width="40" height="40"/> </a>
 <a align="left"> <a href="https://kali.org" target="_blank" rel="noreferrer"> <img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/kali-logo.png" alt="kali" width="40" height="40"/> </a>
 <a align="left"> <a href="https://github.com/kakengloh/tsk" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40446720/185574124-28e9e2b4-bdfc-4aa8-aaed-c82d91576a97.png" alt="kali" width="40" height="40"/> </a>
- 
- <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ransomsec&label=Profile%20views&color=0e75b6&style=flat" alt="ransomsec" /> </p> -->
