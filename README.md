@@ -1,22 +1,26 @@
 <h1 align="center"><img src="https://github.com/ransomsec/ransomsec/blob/main/external-data/wave.gif" width="30px">Hi</h1>
 
  
->##  whoami 🦀
+>##  root~# bat ~/.profile -l 🦀
 
 ```rust
-struct Whoami(&'static str,
-              &'static str,
-              &'static str, 
-              &'static str, 
-              &'static str);
+struct Whoami(
+    &'static str,
+    &'static str,
+    &'static str,
+    &'static str,
+    &'static str,
+);
 
 fn main() {
     let _ = Whoami(
-                   "ransomsec", // whoami
-                   "penetration tester, hunter, binary exploitation", // wht i do and i love
-                   "so-called `dark-web` surf, read blogs", // in free time
-                   "encryptors, rust, linux, golang, python, l33t, malwares, code review", // :just love:
-                   "ransomsec@protonmail.com"); // ping me ;)
+        "ransomsec",                                                            // whoami
+        "pentester, hunter, binary exploitation",                               // what i do and i love!
+        "so-called `dark-web` surf, read blogs",                                // in my free time
+        "encryptors, rust, linux, golang, python, l33t, malwares, code review", // :just love:
+        "ransomsec@protonmail.com",                                             // ping me ;)
+    ); 
+}
 ```
  
 
