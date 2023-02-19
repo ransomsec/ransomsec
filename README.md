@@ -15,7 +15,7 @@ struct Whoami(
 fn main() {
     let _ = Whoami(
         "ransomsec",                                                            // whoami
-        "pentester, hunter, binary exploitation",                               // what i do and i love!
+        "pentesting, hunting, binary exploitation",                             // what i do and i love!
         "so-called `dark-web` surf, read blogs",                                // in my free time
         "encryptors, rust, linux, golang, python, l33t, malwares, code review", // :just love:
         "ransomsec@protonmail.com",                                             // ping me ;)
