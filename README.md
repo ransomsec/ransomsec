@@ -6,10 +6,7 @@
 ```rust
 struct Whoami(
     &'static str,
-    &'static str,
-    &'static str,
-    &'static str,
-    &'static str,
+    .....
 );
 
 fn main() {
